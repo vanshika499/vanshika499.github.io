@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vanshika Jewellery 💎</title>
+  <style>
+    body {
+      font-family: Arial;
+      text-align: center;
+      background: #fff0f5;
+    }
+    h1 {
+      color: #d63384;
+    }
+    .product {
+      border: 1px solid #ccc;
+      margin: 20px;
+      padding: 15px;
+      border-radius: 10px;
+      background: white;
+    }
+    img {
+      width: 150px;
+    }
+    button {
+      padding: 10px;
+      background: #d63384;
+      color: white;
+      border: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>💎 Vanshika Jewellery Store ✨</h1>
+<p>Trendy & aesthetic jewellery to make you shine effortlessly ✨💎</p>
+
+<div class="product">
+  <h2>Gold Necklace 💖</h2>
+  <img src="https://via.placeholder.com/150">
+  <p>Price: ₹299</p>
+  <a href="https://wa.me/917067661165">
+    <button>Buy Now</button>
+  </a>
+</div>
+
+<div class="product">
+  <h2>Elegant Earrings ✨</h2>
+  <img src="https://via.placeholder.com/150">
+  <p>Price: ₹149</p>
+  <a href="https://wa.me/91XXXXXXXXXX">
+    <button>Buy Now</button>
+  </a>
+</div>
+
+</body>
+</html>
